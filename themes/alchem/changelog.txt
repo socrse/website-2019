@@ -1,0 +1,8 @@
+== CHANGE LOG == 
+
+= Version 1.0.1 =
+* Added bbpress style
+* Fixed header padding issue
+* Fixed page right sidebar issue
+* Fixed top bar info color issue
+* Fixed sticky header background color issue

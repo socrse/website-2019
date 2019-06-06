@@ -1,0 +1,1733 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Alchem\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-23 09:51+0800\n"
+"PO-Revision-Date: 2015-09-23 09:52+0800\n"
+"Last-Translator: shijun quan <support@mageewp.com>\n"
+"Language-Team: MageeWP\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.6.6\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/includes/class-options-framework-admin.php:91
+#: admin/includes/class-options-framework-admin.php:92
+msgid "Theme Options"
+msgstr ""
+
+#: admin/includes/class-options-framework-admin.php:204
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+
+#: admin/includes/class-options-framework-admin.php:235
+msgid "Default options restored."
+msgstr ""
+
+#: admin/includes/class-options-framework-admin.php:291
+msgid "Options saved."
+msgstr ""
+
+#: admin/includes/class-options-media-uploader.php:62
+msgid "No file chosen"
+msgstr ""
+
+#: admin/includes/class-options-media-uploader.php:65
+#: admin/includes/class-options-media-uploader.php:118
+msgid "Upload"
+msgstr ""
+
+#: admin/includes/class-options-media-uploader.php:67
+#: admin/includes/class-options-media-uploader.php:119
+msgid "Remove"
+msgstr ""
+
+#: admin/includes/class-options-media-uploader.php:70
+msgid "Upgrade your version of WordPress for full media support."
+msgstr ""
+
+#: admin/includes/class-options-media-uploader.php:94
+msgid "View File"
+msgstr ""
+
+#: admin/includes/class-options-sanitization.php:316
+msgid "No Repeat"
+msgstr ""
+
+#: admin/includes/class-options-sanitization.php:317
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: admin/includes/class-options-sanitization.php:318
+msgid "Repeat Vertically"
+msgstr ""
+
+#: admin/includes/class-options-sanitization.php:319
+msgid "Repeat All"
+msgstr ""
+
+#: admin/includes/class-options-sanitization.php:331
+msgid "Top Left"
+msgstr ""
+
+#: admin/includes/class-options-sanitization.php:332
+msgid "Top Center"
+msgstr ""
+
+#: admin/includes/class-options-sanitization.php:333
+msgid "Top Right"
+msgstr ""
+
+#: admin/includes/class-options-sanitization.php:334
+msgid "Middle Left"
+msgstr ""
+
+#: admin/includes/class-options-sanitization.php:335
+msgid "Middle Center"
+msgstr ""
+
+#: admin/includes/class-options-sanitization.php:336
+msgid "Middle Right"
+msgstr ""
+
+#: admin/includes/class-options-sanitization.php:337
+msgid "Bottom Left"
+msgstr ""
+
+#: admin/includes/class-options-sanitization.php:338
+msgid "Bottom Center"
+msgstr ""
+
+#: admin/includes/class-options-sanitization.php:339
+msgid "Bottom Right"
+msgstr ""
+
+#: admin/includes/class-options-sanitization.php:351
+msgid "Scroll Normally"
+msgstr ""
+
+#: admin/includes/class-options-sanitization.php:352
+msgid "Fixed in Place"
+msgstr ""
+
+#: admin/includes/class-options-sanitization.php:424
+msgid "Normal"
+msgstr ""
+
+#: admin/includes/class-options-sanitization.php:425
+msgid "Italic"
+msgstr ""
+
+#: admin/includes/class-options-sanitization.php:426
+msgid "Bold"
+msgstr ""
+
+#: admin/includes/class-options-sanitization.php:427
+msgid "Bold Italic"
+msgstr ""
+
+#: comments.php:4
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:11
+msgid "No comment"
+msgstr ""
+
+#: comments.php:11
+msgid "Has one comment"
+msgstr ""
+
+#: comments.php:11
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: comments.php:11
+#, php-format
+msgid "to &#8220;%s&#8221;"
+msgstr ""
+
+#: comments.php:12
+msgid "You can "
+msgstr ""
+
+#: comments.php:12
+msgid "leave a reply"
+msgstr ""
+
+#: comments.php:12
+msgid " or "
+msgstr ""
+
+#: comments.php:12
+msgid "Trackback"
+msgstr ""
+
+#: comments.php:12
+msgid "this post."
+msgstr ""
+
+#: comments.php:24
+msgid "Comment pages"
+msgstr ""
+
+#: comments.php:54
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: comments.php:65
+msgid "Your email address will not be published."
+msgstr ""
+
+#: comments.php:68
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:73
+msgid "Message"
+msgstr ""
+
+#: comments.php:77
+msgid "Name"
+msgstr ""
+
+#: comments.php:81
+msgid "Email"
+msgstr ""
+
+#: comments.php:85
+msgid "Website"
+msgstr ""
+
+#: content-article.php:31 content-article2.php:32 content-article3.php:42
+#: content.php:37 template-blog4.php:106
+msgid "Read More"
+msgstr ""
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: content-portfolio.php:13
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: content-single.php:59
+msgid "About the author"
+msgstr ""
+
+#: content-single.php:80
+msgid "Related Posts"
+msgstr ""
+
+#: functions.php:20
+#, php-format
+msgid "Alchem %s"
+msgstr ""
+
+#: functions.php:21
+msgid "Alchem Options"
+msgstr ""
+
+#: functions.php:86
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:87
+msgid "Top Bar Menu"
+msgstr ""
+
+#: functions.php:88
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:89
+msgid "Custom Menu 1"
+msgstr ""
+
+#: functions.php:90
+msgid "Custom Menu 2"
+msgstr ""
+
+#: functions.php:91
+msgid "Custom Menu 3"
+msgstr ""
+
+#: functions.php:92
+msgid "Custom Menu 4"
+msgstr ""
+
+#: functions.php:93
+msgid "Custom Menu 5"
+msgstr ""
+
+#: functions.php:94
+msgid "Custom Menu 6"
+msgstr ""
+
+#: functions.php:1169
+msgid "Magee Shortcodes"
+msgstr ""
+
+#: functions.php:1198 inc/class-tgm-plugin-activation.php:301
+msgid "Install Required Plugins"
+msgstr ""
+
+#: functions.php:1199 inc/class-tgm-plugin-activation.php:302
+msgid "Install Plugins"
+msgstr ""
+
+#: functions.php:1200 inc/class-tgm-plugin-activation.php:303
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: functions.php:1201 inc/class-tgm-plugin-activation.php:304
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: functions.php:1212 inc/class-tgm-plugin-activation.php:365
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: functions.php:1213 inc/class-tgm-plugin-activation.php:367
+#: inc/class-tgm-plugin-activation.php:2955
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: functions.php:1214
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: header.php:152 header.php:189
+msgid "Toggle navigation"
+msgstr ""
+
+#: inc/breadcrumbs.php:147
+msgid "Browse:"
+msgstr ""
+
+#: inc/breadcrumbs.php:148
+msgid "Home"
+msgstr ""
+
+#: inc/breadcrumbs.php:149
+msgid "404 Not Found"
+msgstr ""
+
+#: inc/breadcrumbs.php:150
+msgid "Archives"
+msgstr ""
+
+#: inc/breadcrumbs.php:152
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr ""
+
+#: inc/breadcrumbs.php:154
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: inc/breadcrumbs.php:156
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#: inc/breadcrumbs.php:158
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: inc/breadcrumbs.php:907 inc/breadcrumbs.php:933 inc/breadcrumbs.php:945
+#: inc/breadcrumbs.php:967
+msgid "Edit"
+msgstr ""
+
+#: inc/breadcrumbs.php:927
+msgid "Split"
+msgstr ""
+
+#: inc/breadcrumbs.php:930
+msgid "Merge"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:366
+msgid "Return to the dashboard"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:368
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:369
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:370
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:371
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:372
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:373
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:603
+msgid "The \"tgmpa_admin_menu_use_add_theme_page\" filter"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2118
+msgid "Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2121
+msgid "Recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2137
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2140
+msgid "External Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2143
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2160
+msgid "Not Installed"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2164
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2166
+msgid "Active"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2172
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2175
+msgid "Requires Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2178
+msgid "Update recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2330
+msgid "Installed version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2338
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2350
+msgid "Available version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2373
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2387
+msgid "Plugin"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2388
+msgid "Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2389
+msgid "Type"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2393
+msgid "Version"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2394
+msgid "Status"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2554
+msgid "Install"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2560
+msgid "Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2563
+msgid "Activate"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2594
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2596
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2632
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2634
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2954
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3284
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3286
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3287
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3291
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3292
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3293
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3294
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3297
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3299
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3300
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/extras.php:86
+msgid "Untitled"
+msgstr ""
+
+#: inc/extras.php:120
+msgid "Page: "
+msgstr ""
+
+#: inc/extras.php:137
+msgid ""
+"This post is password protected. To read it please enter the password below."
+msgstr ""
+
+#: inc/extras.php:147
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/extras.php:148
+msgid "Default Sidebar"
+msgstr ""
+
+#: inc/extras.php:149
+msgid "Sidebar 1"
+msgstr ""
+
+#: inc/extras.php:150
+msgid "Sidebar 2"
+msgstr ""
+
+#: inc/extras.php:151
+msgid "Sidebar 3"
+msgstr ""
+
+#: inc/extras.php:152
+msgid "Sidebar 4"
+msgstr ""
+
+#: inc/extras.php:153 inc/extras.php:154
+msgid "Sidebar 5"
+msgstr ""
+
+#: inc/extras.php:155
+msgid "Sidebar 6"
+msgstr ""
+
+#: inc/extras.php:156
+msgid "Footer Widget 1"
+msgstr ""
+
+#: inc/extras.php:157
+msgid "Footer Widget 2"
+msgstr ""
+
+#: inc/extras.php:158
+msgid "Footer Widget 3"
+msgstr ""
+
+#: inc/extras.php:159
+msgid "Footer Widget 4"
+msgstr ""
+
+#: inc/extras.php:160
+msgid "404 Page Left Sidebar"
+msgstr ""
+
+#: inc/extras.php:161
+msgid "404 Page Right Sidebar"
+msgstr ""
+
+#: inc/extras.php:353 inc/extras.php:415
+msgid "No Comments"
+msgstr ""
+
+#: inc/extras.php:354 inc/extras.php:417
+msgid "1 Comment"
+msgstr ""
+
+#: inc/extras.php:355 inc/extras.php:413
+msgid "% Comments"
+msgstr ""
+
+#: inc/extras.php:356
+msgid "Comments Off"
+msgstr ""
+
+#: inc/extras.php:396
+#, php-format
+msgid "Comment on %s"
+msgstr ""
+
+#: inc/extras.php:702 inc/extras.php:727
+msgid "Loading the next set of posts..."
+msgstr ""
+
+#: inc/extras.php:703 inc/extras.php:728
+msgid "All posts loaded."
+msgstr ""
+
+#: inc/metabox-options.php:36
+msgid "Alchem Metabox Options"
+msgstr ""
+
+#: inc/metabox-options.php:48
+msgid "Select a slider"
+msgstr ""
+
+#: inc/metabox-options.php:163 inc/metabox-options.php:179
+msgid "Default"
+msgstr ""
+
+#: inc/metabox-options.php:194
+msgid "Header Position"
+msgstr ""
+
+#: inc/metabox-options.php:197 options.php:1545
+msgid "Top"
+msgstr ""
+
+#: inc/metabox-options.php:198 inc/metabox-options.php:246 options.php:2208
+msgid "Left"
+msgstr ""
+
+#: inc/metabox-options.php:199 inc/metabox-options.php:247 options.php:2210
+msgid "Right"
+msgstr ""
+
+#: inc/metabox-options.php:204
+msgid "Content Full Width"
+msgstr ""
+
+#: inc/metabox-options.php:207 inc/metabox-options.php:229 options.php:143
+#: options.php:148
+msgid "No"
+msgstr ""
+
+#: inc/metabox-options.php:208 inc/metabox-options.php:228 options.php:142
+#: options.php:149
+msgid "Yes"
+msgstr ""
+
+#: inc/metabox-options.php:213
+msgid "Padding Top"
+msgstr ""
+
+#: inc/metabox-options.php:219
+msgid "Padding Bottom"
+msgstr ""
+
+#: inc/metabox-options.php:225
+msgid "Display Title Bar"
+msgstr ""
+
+#: inc/metabox-options.php:233
+msgid "Select Nav Menu"
+msgstr ""
+
+#: inc/metabox-options.php:242
+msgid "Page Layout"
+msgstr ""
+
+#: inc/metabox-options.php:245 options.php:1250 options.php:2206
+msgid "None"
+msgstr ""
+
+#: inc/metabox-options.php:248 options.php:2212
+msgid "Both"
+msgstr ""
+
+#: inc/metabox-options.php:253
+msgid "Select Left Sidebar"
+msgstr ""
+
+#: inc/metabox-options.php:262
+msgid "Select Right Sidebar"
+msgstr ""
+
+#: inc/metabox-options.php:272
+msgid "Slider Banner"
+msgstr ""
+
+#: inc/metabox-options.php:275
+msgid "Disable"
+msgstr ""
+
+#: inc/metabox-options.php:276
+msgid "Magee Slider"
+msgstr ""
+
+#: inc/metabox-options.php:280
+msgid "Banner Position"
+msgstr ""
+
+#: inc/metabox-options.php:283
+msgid "Below Header"
+msgstr ""
+
+#: inc/metabox-options.php:284
+msgid "Above Header"
+msgstr ""
+
+#: inc/metabox-options.php:289
+msgid "Select Magee Slider"
+msgstr ""
+
+#: inc/template-tags.php:28
+msgid " Prev"
+msgstr ""
+
+#: inc/template-tags.php:29
+msgid "Next "
+msgstr ""
+
+#: inc/template-tags.php:76
+msgid "Last"
+msgstr ""
+
+#: inc/template-tags.php:77
+msgid "Next"
+msgstr ""
+
+#: inc/template-tags.php:114
+msgid "<i class=\"fa fa-comment\"></i> 1 "
+msgstr ""
+
+#: inc/template-tags.php:114
+msgid "<i class=\"fa fa-comment\"></i> % "
+msgstr ""
+
+#: inc/template-tags.php:222
+msgid "(Edit)"
+msgstr ""
+
+#: inc/template-tags.php:227
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: options.php:49
+msgid "One"
+msgstr ""
+
+#: options.php:50
+msgid "Two"
+msgstr ""
+
+#: options.php:51
+msgid "Three"
+msgstr ""
+
+#: options.php:52
+msgid "Four"
+msgstr ""
+
+#: options.php:53
+msgid "Five"
+msgstr ""
+
+#: options.php:58
+msgid "French Toast"
+msgstr ""
+
+#: options.php:59
+msgid "Pancake"
+msgstr ""
+
+#: options.php:60
+msgid "Omelette"
+msgstr ""
+
+#: options.php:61
+msgid "Crepe"
+msgstr ""
+
+#: options.php:62
+msgid "Waffle"
+msgstr ""
+
+#: options.php:122
+msgid "-- None --"
+msgstr ""
+
+#: options.php:132
+msgid "-- Select Font --"
+msgstr ""
+
+#: options.php:155 options.php:676
+msgid "left"
+msgstr ""
+
+#: options.php:156 options.php:678
+msgid "right"
+msgstr ""
+
+#: options.php:157
+msgid "center"
+msgstr ""
+
+#: options.php:161
+msgid "repeat"
+msgstr ""
+
+#: options.php:162
+msgid "repeat-x"
+msgstr ""
+
+#: options.php:163
+msgid "repeat-y"
+msgstr ""
+
+#: options.php:164
+msgid "no-repeat"
+msgstr ""
+
+#: options.php:170
+msgid "top left"
+msgstr ""
+
+#: options.php:171
+msgid "top center"
+msgstr ""
+
+#: options.php:172
+msgid "top right"
+msgstr ""
+
+#: options.php:173
+msgid "center left"
+msgstr ""
+
+#: options.php:174
+msgid "center center"
+msgstr ""
+
+#: options.php:175
+msgid "center right"
+msgstr ""
+
+#: options.php:176
+msgid "bottom left"
+msgstr ""
+
+#: options.php:177
+msgid "bottom center"
+msgstr ""
+
+#: options.php:178
+msgid "bottom right"
+msgstr ""
+
+#: options.php:190
+msgid "General"
+msgstr ""
+
+#: options.php:198
+msgid "Scheme Options"
+msgstr ""
+
+#: options.php:210
+msgid "Color Scheme"
+msgstr ""
+
+#: options.php:223
+msgid "Responsive Options"
+msgstr ""
+
+#: options.php:235
+msgid "Responsive Design"
+msgstr ""
+
+#: options.php:236
+msgid "Apply or not"
+msgstr ""
+
+#: options.php:246
+msgid "Tracking"
+msgstr ""
+
+#: options.php:258
+msgid "Tracking Code"
+msgstr ""
+
+#: options.php:259
+msgid ""
+"Paste your Google Analytics (or other) tracking code here. This will be "
+"added into the header template of your theme. Please put code inside script "
+"tags."
+msgstr ""
+
+#: options.php:270
+msgid "Space before &lt;/head&gt;"
+msgstr ""
+
+#: options.php:271
+msgid "Add code before the head tag."
+msgstr ""
+
+#: options.php:282
+msgid "Space before &lt;/body&gt;"
+msgstr ""
+
+#: options.php:283
+msgid "Add code before the body tag."
+msgstr ""
+
+#: options.php:296 options.php:319
+msgid "Site Width"
+msgstr ""
+
+#: options.php:301
+msgid "Layout"
+msgstr ""
+
+#: options.php:302
+msgid "Select boxed or wide layout."
+msgstr ""
+
+#: options.php:310
+msgid "Boxed"
+msgstr ""
+
+#: options.php:312
+msgid "Wide"
+msgstr ""
+
+#: options.php:320 options.php:343 options.php:355
+msgid "Controls the overall site width. In px or %, ex: 100% or 1170px."
+msgstr ""
+
+#: options.php:330
+msgid "Content Width/Sidebar Width"
+msgstr ""
+
+#: options.php:331
+msgid ""
+"These settings are used on pages with 1 sidebar. Total values must add up to "
+"100."
+msgstr ""
+
+#: options.php:342 options.php:377
+#, fuzzy
+msgid "Content Width"
+msgstr ""
+
+#: options.php:354
+#, fuzzy
+msgid "Sidebar Width"
+msgstr ""
+
+#: options.php:365
+msgid "Content Width/Left Sidebar Width/Right Sidebar Width"
+msgstr ""
+
+#: options.php:366
+msgid ""
+"These settings are used on pages with 2 sidebars. Total values must add up "
+"to 100."
+msgstr ""
+
+#: options.php:378
+msgid "Controls the width of the content area. In px or %, ex: 100% or 1170px."
+msgstr ""
+
+#: options.php:389
+#, fuzzy
+msgid "Sidebar 1 Width"
+msgstr ""
+
+#: options.php:390
+msgid "Controls the width of the sidebar 1. In px or %, ex: 100% or 1170px."
+msgstr ""
+
+#: options.php:400
+#, fuzzy
+msgid "Sidebar 2 Width"
+msgstr ""
+
+#: options.php:401
+msgid "Controls the width of the sidebar 2. In px or %, ex: 100% or 1170px."
+msgstr ""
+
+#: options.php:413
+msgid "Header"
+msgstr ""
+
+#: options.php:422
+#, fuzzy
+msgid "Header Background"
+msgstr ""
+
+#: options.php:434
+msgid "Header Background Image"
+msgstr ""
+
+#: options.php:435
+msgid "Background Image For Header Area"
+msgstr ""
+
+#: options.php:445 options.php:1107 options.php:1317 options.php:1946
+#: options.php:2036
+msgid "100% Background Image"
+msgstr ""
+
+#: options.php:446
+msgid ""
+"Turn on to have the header background image display at 100% in width and "
+"height and scale according to the browser size."
+msgstr ""
+
+#: options.php:456 options.php:1118 options.php:1328
+msgid "Parallax Background Image"
+msgstr ""
+
+#: options.php:457
+msgid ""
+"Turn on to enable parallax scrolling on the background image for header top "
+"positions."
+msgstr ""
+
+#: options.php:468 options.php:1339 options.php:1957 options.php:2047
+msgid "Background Repeat"
+msgstr ""
+
+#: options.php:469
+msgid "Select how the background image repeats."
+msgstr ""
+
+#: options.php:479
+msgid "Header Top Padding"
+msgstr ""
+
+#: options.php:480 options.php:491 options.php:1362 options.php:1373
+#: options.php:1419 options.php:1430
+msgid "In pixels or percentage, ex: 10px or 10%."
+msgstr ""
+
+#: options.php:490
+msgid "Header Bottom Padding"
+msgstr ""
+
+#: options.php:503
+msgid "Top Bar Options"
+msgstr ""
+
+#: options.php:515
+msgid "Display Top Bar"
+msgstr ""
+
+#: options.php:526
+#, fuzzy
+msgid "Background Color"
+msgstr ""
+
+#: options.php:537
+msgid "Left Content"
+msgstr ""
+
+#: options.php:545 options.php:562
+msgid "info"
+msgstr ""
+
+#: options.php:546 options.php:564
+msgid "sns"
+msgstr ""
+
+#: options.php:547 options.php:566
+msgid "menu"
+msgstr ""
+
+#: options.php:548 options.php:568
+msgid "none"
+msgstr ""
+
+#: options.php:554
+msgid "Right Content"
+msgstr ""
+
+#: options.php:575
+#, fuzzy
+msgid "Info Color"
+msgstr ""
+
+#: options.php:586
+msgid "Info Content"
+msgstr ""
+
+#: options.php:597
+#, fuzzy
+msgid "Menu Color"
+msgstr ""
+
+#: options.php:608
+msgid "Social Links"
+msgstr ""
+
+#: options.php:623 options.php:1457
+#, fuzzy
+msgid "Social Title"
+msgstr ""
+
+#: options.php:633 options.php:1467
+msgid "Social Icon"
+msgstr ""
+
+#: options.php:634 options.php:1468
+msgid "FontAwesome Icon"
+msgstr ""
+
+#: options.php:643 options.php:1477
+msgid "Social Icon Link"
+msgstr ""
+
+#: options.php:659 options.php:1491
+#, fuzzy
+msgid "Social Icons Color"
+msgstr ""
+
+#: options.php:669 options.php:1537
+msgid "Social Icon Tooltip Position"
+msgstr ""
+
+#: options.php:680
+msgid "bottom"
+msgstr ""
+
+#: options.php:689
+msgid "Sticky Header"
+msgstr ""
+
+#: options.php:696
+msgid "Enable Sticky Header"
+msgstr ""
+
+#: options.php:707
+msgid "Enable Sticky Header on Tablets"
+msgstr ""
+
+#: options.php:718
+msgid "Enable Sticky Header on Mobiles"
+msgstr ""
+
+#: options.php:730
+msgid "Sticky Header Opacity"
+msgstr ""
+
+#: options.php:741
+msgid "Sticky Header Menu Item Padding"
+msgstr ""
+
+#: options.php:742
+msgid ""
+"Controls the space between each menu item in the sticky header. Use a number "
+"without 'px', default is 0. ex: 10"
+msgstr ""
+
+#: options.php:752
+msgid "Sticky Header Navigation Font Size"
+msgstr ""
+
+#: options.php:753
+msgid ""
+"Controls the font size of the menu items in the sticky header. Use a number "
+"without 'px', default is 14. ex: 14"
+msgstr ""
+
+#: options.php:763
+msgid "Sticky Header Logo Width"
+msgstr ""
+
+#: options.php:764
+msgid ""
+"Controls the logo width in the sticky header. Use a number without 'px'."
+msgstr ""
+
+#: options.php:776 options.php:781
+msgid "Logo"
+msgstr ""
+
+#: options.php:793 options.php:852
+#, fuzzy
+msgid "Upload Logo"
+msgstr ""
+
+#: options.php:794 options.php:853
+msgid "Select an image file for your logo."
+msgstr ""
+
+#: options.php:805 options.php:864
+msgid "Upload Logo (Retina Version @2x)"
+msgstr ""
+
+#: options.php:806 options.php:865
+msgid ""
+"Select an image file for the retina version of the logo. It should be "
+"exactly 2x the size of main logo."
+msgstr ""
+
+#: options.php:816
+msgid "Standard Logo Width for Retina Logo"
+msgstr ""
+
+#: options.php:817 options.php:876
+msgid ""
+"If retina logo is uploaded, enter the standard logo (1x) version width, do "
+"not enter the retina logo width. Use a number without 'px', ex: 40"
+msgstr ""
+
+#: options.php:828
+msgid "Standard Logo Height for Retina Logo"
+msgstr ""
+
+#: options.php:829 options.php:887
+msgid ""
+"If retina logo is uploaded, enter the standard logo (1x) version height, do "
+"not enter the retina logo height. Use a number without 'px', ex: 40"
+msgstr ""
+
+#: options.php:840
+msgid "Sticky Header Logo"
+msgstr ""
+
+#: options.php:875
+msgid "Sticky Logo Width for Retina Logo"
+msgstr ""
+
+#: options.php:886
+msgid "Sticky Logo Height for Retina Logo"
+msgstr ""
+
+#: options.php:898
+msgid "Logo Left Margin"
+msgstr ""
+
+#: options.php:899 options.php:910 options.php:921 options.php:932
+msgid "Use a number without 'px', ex: 40"
+msgstr ""
+
+#: options.php:909
+msgid "Logo Right Margin"
+msgstr ""
+
+#: options.php:920
+msgid "Logo Top Margin"
+msgstr ""
+
+#: options.php:931
+msgid "Logo Bottom Margin"
+msgstr ""
+
+#: options.php:944
+msgid "Favicon Options"
+msgstr ""
+
+#: options.php:950
+#, fuzzy
+msgid "Upload Favicon"
+msgstr ""
+
+#: options.php:961
+msgid "Favicon for Iphone"
+msgstr ""
+
+#: options.php:972
+msgid "Favicon for Iphone (Retina Version @2x)"
+msgstr ""
+
+#: options.php:983
+msgid "Favicon for Ipad"
+msgstr ""
+
+#: options.php:994
+msgid "Favicon for Ipad (Retina Version @2x)"
+msgstr ""
+
+#: options.php:1008
+#, fuzzy
+msgid "Page Title Bar"
+msgstr ""
+
+#: options.php:1013
+msgid "Page Title Bar Options"
+msgstr ""
+
+#: options.php:1025
+msgid "Enable Page Title Bar"
+msgstr ""
+
+#: options.php:1037
+msgid "Page Title Bar Top Padding"
+msgstr ""
+
+#: options.php:1038
+msgid "In pixels, ex: 210px"
+msgstr ""
+
+#: options.php:1049
+msgid "Page Title Bar Bottom Padding"
+msgstr ""
+
+#: options.php:1050
+msgid "In pixels, ex: 160px"
+msgstr ""
+
+#: options.php:1060
+msgid "Page Title Bar Mobile Top Padding"
+msgstr ""
+
+#: options.php:1061
+msgid "In pixels, ex: 70px"
+msgstr ""
+
+#: options.php:1072
+msgid "Page Title Bar Mobile Bottom Padding"
+msgstr ""
+
+#: options.php:1073
+msgid "In pixels, ex: 50px"
+msgstr ""
+
+#: options.php:1084
+msgid "Page Title Bar Background"
+msgstr ""
+
+#: options.php:1095
+msgid "Page Title Bar Background (Retina Version @2x)"
+msgstr ""
+
+#: options.php:1108
+msgid ""
+"Select yes to have the page title bar background image display at 100% in "
+"width and height and scale according to the browser size."
+msgstr ""
+
+#: options.php:1119
+msgid "Select yes to enable parallax background image when scrolling."
+msgstr ""
+
+#: options.php:1130
+#, fuzzy
+msgid "Page Title Align"
+msgstr ""
+
+#: options.php:1142
+msgid "Breadcrumb Options"
+msgstr ""
+
+#: options.php:1155
+msgid "Display breadcrumb/search bar?"
+msgstr ""
+
+#: options.php:1166
+msgid "Breadcrumbs on Mobile Devices"
+msgstr ""
+
+#: options.php:1167
+msgid "Check to display breadcrumbs on mobile devices."
+msgstr ""
+
+#: options.php:1177
+msgid "Breadcrumb Menu Prefix"
+msgstr ""
+
+#: options.php:1178
+msgid "The text before the breadcrumb menu."
+msgstr ""
+
+#: options.php:1188
+msgid "Breadcrumb Menu Separator"
+msgstr ""
+
+#: options.php:1189
+msgid "Choose a separator between the single breadcrumbs."
+msgstr ""
+
+#: options.php:1199
+msgid "Show Custom Post Type Archives on Breadcrumbs"
+msgstr ""
+
+#: options.php:1200 options.php:1211
+msgid "Check to display custom post type archives in the breadcrumb path."
+msgstr ""
+
+#: options.php:1210
+msgid "Show Post Categories on Breadcrumbs"
+msgstr ""
+
+#: options.php:1223
+msgid "Footer"
+msgstr ""
+
+#: options.php:1230
+msgid "General Footer Options"
+msgstr ""
+
+#: options.php:1242
+msgid "Footer Special Effects"
+msgstr ""
+
+#: options.php:1252
+msgid "Sticky Footer"
+msgstr ""
+
+#: options.php:1261
+msgid "Footer Widgets Area Options"
+msgstr ""
+
+#: options.php:1274
+msgid "Display footer widgets?"
+msgstr ""
+
+#: options.php:1285
+msgid "Number of Footer Columns"
+msgstr ""
+
+#: options.php:1306
+#, fuzzy
+msgid "Upload Background Image"
+msgstr ""
+
+#: options.php:1318
+msgid ""
+"Select yes to have the footer widgets area background image display at 100% "
+"in width and height and scale according to the browser size."
+msgstr ""
+
+#: options.php:1350
+msgid "Background Position"
+msgstr ""
+
+#: options.php:1361
+msgid "Footer Top Padding"
+msgstr ""
+
+#: options.php:1372
+msgid "Footer Bottom Padding"
+msgstr ""
+
+#: options.php:1383
+msgid "Copyright Options"
+msgstr ""
+
+#: options.php:1395
+msgid "Display Copyright Bar"
+msgstr ""
+
+#: options.php:1406
+msgid "Copyright Text"
+msgstr ""
+
+#: options.php:1407
+msgid ""
+"Enter the text that displays in the copyright bar. HTML markup can be used."
+msgstr ""
+
+#: options.php:1418
+msgid "Copyright Top Padding"
+msgstr ""
+
+#: options.php:1429
+msgid "Copyright Bottom Padding"
+msgstr ""
+
+#: options.php:1441
+#, fuzzy
+msgid "Social Icon Options"
+msgstr ""
+
+#: options.php:1503
+msgid "Social Icons Boxed"
+msgstr ""
+
+#: options.php:1514
+msgid "Social Icons Box Color"
+msgstr ""
+
+#: options.php:1525
+msgid "Social Icons Boxed Radius"
+msgstr ""
+
+#: options.php:1526
+msgid "In pixels, ex: 10px."
+msgstr ""
+
+#: options.php:1547
+msgid "Bottom"
+msgstr ""
+
+#: options.php:1558
+msgid "Sidebar"
+msgstr ""
+
+#: options.php:1563
+#, fuzzy
+msgid "Pages"
+msgstr ""
+
+#: options.php:1576 options.php:1615 options.php:1653 options.php:1692
+#: options.php:1733 options.php:1771 options.php:1810 options.php:1848
+#: options.php:1887
+msgid "Left Sidebar"
+msgstr ""
+
+#: options.php:1588 options.php:1627 options.php:1665 options.php:1704
+#: options.php:1745 options.php:1783 options.php:1822 options.php:1860
+#: options.php:1899
+msgid "Right Sidebar"
+msgstr ""
+
+#: options.php:1602
+msgid "Portfolio Posts"
+msgstr ""
+
+#: options.php:1640
+msgid "Portfolio Archive Category Pages"
+msgstr ""
+
+#: options.php:1679
+msgid "Blog Posts"
+msgstr ""
+
+#: options.php:1720
+msgid "Blog Archive Category Pages"
+msgstr ""
+
+#: options.php:1758
+msgid "Woo Products"
+msgstr ""
+
+#: options.php:1797
+msgid "Woo Archive"
+msgstr ""
+
+#: options.php:1835
+msgid "Sidebar bbpress"
+msgstr ""
+
+#: options.php:1874
+msgid "Search Page"
+msgstr ""
+
+#: options.php:1915
+msgid "Background"
+msgstr ""
+
+#: options.php:1921
+msgid "BACKGROUND OPTIONS BELOW ONLY WORK IN BOXED MODE"
+msgstr ""
+
+#: options.php:1934
+msgid "Background Image For Outer Areas In Boxed Mode"
+msgstr ""
+
+#: options.php:1947 options.php:2037
+msgid ""
+"Select yes to have the background image display at 100% in width and height "
+"and scale according to the browser size."
+msgstr ""
+
+#: options.php:1969
+msgid "Background Color For Outer Areas In Boxed Mode"
+msgstr ""
+
+#: options.php:1981
+msgid "Background Pattern"
+msgstr ""
+
+#: options.php:1982
+msgid ""
+"Select yes to display a pattern in the background. If 'yes' is selected, "
+"select the pattern from below."
+msgstr ""
+
+#: options.php:1992
+msgid "Select a Background Pattern"
+msgstr ""
+
+#: options.php:2013
+msgid "BACKGROUND OPTIONS BELOW WORK FOR BOXED & WIDE MODE"
+msgstr ""
+
+#: options.php:2024
+msgid "Background Image For Main Content Area"
+msgstr ""
+
+#: options.php:2064
+msgid "Slider Settings"
+msgstr ""
+
+#: options.php:2070
+msgid "Autoplay"
+msgstr ""
+
+#: options.php:2083
+msgid "Slideshow Speed"
+msgstr ""
+
+#: options.php:2084
+msgid ""
+"Controls the speed of slideshows for the [alchem_slider] shortcode and "
+"sliders within posts. ex: 1000 = 1 second."
+msgstr ""
+
+#: options.php:2094
+msgid "Display Slider Pagination"
+msgstr ""
+
+#: options.php:2106
+#, fuzzy
+msgid "Caption Font Color"
+msgstr ""
+
+#: options.php:2118
+msgid "Caption Heading h1-h6 Font Color"
+msgstr ""
+
+#: options.php:2129
+msgid "Caption Font Size"
+msgstr ""
+
+#: options.php:2153
+msgid "Caption Alignment"
+msgstr ""
+
+#: options.php:2167
+msgid "404 Page"
+msgstr ""
+
+#: options.php:2172
+#, fuzzy
+msgid "404 Page Title"
+msgstr ""
+
+#: options.php:2185
+msgid "404 Page Content"
+msgstr ""
+
+#: options.php:2198
+msgid "Sidebar Position"
+msgstr ""
+
+#: options.php:2223 options.php:2228
+msgid "Custom CSS"
+msgstr ""
+
+#: searchform.php:3
+msgid "Search for"
+msgstr ""
+
+#: searchform.php:4
+msgid "Search..."
+msgstr ""
