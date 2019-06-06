@@ -15,10 +15,8 @@ services:
    wordpress:
      depends_on:
        - db
-     image: wordpress:latest
-     volumes:
-       - ./themes/alchem:/var/www/html/wp-content/themes/alchem
-       - ./themes/soc-rse:/var/www/html/wp-content/themes/soc-rse
+     build: .
+     image: soc-rse/website:latest
      ports:
        - "8000:80"
      restart: always
