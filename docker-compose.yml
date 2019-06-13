@@ -15,15 +15,17 @@ services:
    wordpress:
      depends_on:
        - db
-     build: .
-     image: soc-rse/website:latest
+     image: wordpress:latest
      ports:
        - "8000:80"
      restart: always
+     volumes:
+       - ./src:/var/www/html
      environment:
        WORDPRESS_DB_HOST: ${WORDPRESS_DB_HOST}
        WORDPRESS_DB_USER: ${WORDPRESS_DB_USER}
        WORDPRESS_DB_PASSWORD: ${WORDPRESS_DB_PASSWORD}
        WORDPRESS_DB_NAME: ${WORDPRESS_DB_NAME}
+
 volumes:
     db_data: {}

@@ -2,17 +2,6 @@
 .vscode
 
 *.log
-wp-config.php
-wp-content/advanced-cache.php
-wp-content/backup-db/
-wp-content/backups/
-wp-content/blogs.dir/
-wp-content/cache/
-wp-content/upgrade/
-wp-content/uploads/
-wp-content/mu-plugins/
-wp-content/wp-cache-config.php
-wp-content/plugins/hello.php
 
 /.htaccess
 /license.txt
@@ -21,3 +10,15 @@ wp-content/plugins/hello.php
 /sitemap.xml.gz
 
 .DS_Store
+
+src/wp-admin/
+src/wp-includes/
+src/wp-content/plugins/
+src/wp-content/upgrade/
+src/wp-content/themes/twentynineteen/
+src/wp-content/themes/twentyseventeen/
+src/wp-content/themes/twentysixteen/
+src/wp-content/*.*
+src/wp-content/themes/*.*
+src/*.*
+!src/wp-config.php
